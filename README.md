@@ -1,6 +1,3 @@
-# PT-Booking-App-iOSASSSIGNMENT3
-An iOS app built with Swift that allows users to register, log in, and book personal training sessions. Features include a dashboard for upcoming sessions, a booking system, and a schedule page to manage bookings. Developed for a university project to demonstrate practical use of iOS frameworks.
-
 # 🏋️‍♀️ PT Booking App – iOS
 
 This iOS application is a personal training session booking system developed as part of a university group project. It allows users to register, log in, and manage their training sessions in a simple and intuitive way.
@@ -28,13 +25,19 @@ Health-conscious individuals who regularly train with personal trainers and want
 ## 🛠 Setup
 
 1. Clone this repository  
-   `git clone https://github.com/yourusername/PT-Booking-App-iOSASSIGNMENT3.git`
+   `git clone https://github.com/AbtaheeAshaf/PT-Booking-App-iOSASSIGNMENT3.git`
 2. Open `PTBookingApp.xcodeproj` in Xcode
 3. Run the app on iPhone Simulator or real device
 
 ## 🧠 Problem Being Solved
 
 Many gym members find it hard to manage PT bookings through external systems or messy spreadsheets. This app provides a simple, all-in-one mobile solution for real-time scheduling and tracking.
+
+## 👥 Team Collaboration
+
+📄 [Click here for the Team Git Workflow Guide](TEAM_GUIDE.md)
+
+This guide explains how to clone, pull, commit, and push changes for group collaboration.
 
 ## 🗂️ Group Info
 
