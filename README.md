@@ -9,14 +9,12 @@ This iOS application is a personal training session booking system developed as 
 - 📅 Session booking with date/time and trainer selection
 - 🗓️ My Schedule – view, cancel, or track past sessions
 - 👤 Profile page to update personal info and preferences
-- 🔔 (Optional) Session reminders using `UserNotifications`
 
 ## 🔧 Frameworks & Tools
 
 - Swift + SwiftUI
 - Xcode
 - GitHub (collaborative version control)
-- Optional: `UserNotifications`, `AppStorage`, `CoreData`
 
 ## 🎯 Target Audience
 
